@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Get info about all disks in the system",
   "main": "src/diskinfo.js",
+  "engines" : { "node" : ">=7.6.0" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
