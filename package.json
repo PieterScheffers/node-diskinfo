@@ -1,0 +1,25 @@
+{
+  "name": "node-diskinfo",
+  "version": "0.0.1",
+  "description": "Get info about all disks in the system",
+  "main": "src/diskinfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieterScheffers/node-diskinfo.git"
+  },
+  "keywords": [
+    "diskinfo",
+    "disks",
+    "posix",
+    "windows"
+  ],
+  "author": "Pieter Scheffers <info@pieterscheffers.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PieterScheffers/node-diskinfo/issues"
+  },
+  "homepage": "https://github.com/PieterScheffers/node-diskinfo#readme"
+}
